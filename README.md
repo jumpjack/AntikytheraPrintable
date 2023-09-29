@@ -26,5 +26,6 @@ The most difficult part will be to implement the weird coupling of K1+K2 gears:
 
 They are not coaxial or tangent, they interact through a pin, which makes K2 rotate at variable speed while K1 rotates at constant speed.
 
+You can load the .jscad file into [OpenJsCad loader](https://joostn.github.io/OpenJsCad/processfile.html)https://joostn.github.io/OpenJsCad/processfile.html to view the mechanism.
 
 
