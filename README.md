@@ -7,7 +7,7 @@ But once you are happy with it and you want to print it? ;-)
 
 This repo comes in help.
 
-Thanks to OpenJsCad capabilities, I am  trying to build a complete Antikythera mechanism made of STL gears which you can print to build your own machine.
+Thanks to [OpenJsCad](https://github.com/jscad/OpenJSCAD.org) capabilities, I am  trying to build a complete Antikythera mechanism made of STL gears which you can print to build your own machine.
 
 I started from the [demo source code here](https://joostn.github.io/OpenJsCad/) ("Involute Gears"), which allows just creating one single spur gear, and I modded it to allow positioning gear in space and showing all gears at a time rather than ony by one.
 
